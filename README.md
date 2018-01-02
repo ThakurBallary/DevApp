@@ -1,2 +1,0 @@
-# DevApp
-React Native App
